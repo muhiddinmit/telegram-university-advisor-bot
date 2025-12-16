@@ -21,12 +21,11 @@ Many students struggle to identify universities that match their academic profil
 
 ## 🚀 How to Run (Local)
 1. Install dependencies:
-pip install -r requirements.txt
+pip install - requirements.txt
 
 2. Add your Telegram bot token in `Project_python (2).py`
 3. Run the bot: Project_python (2).py
 
-4. 
 ## 🔐 Security Note
 The Telegram bot token is not included in this repository for security reasons.
 
