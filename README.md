@@ -32,4 +32,11 @@ The Telegram bot token is not included in this repository for security reasons.
 ## 📈 Use Case
 This project demonstrates how Python, automation, and data-driven logic can be used to solve real-world problems.
 
+## 🔗 Bot Access
+
+You can access the Telegram bot here:  
+👉 https://t.me/CollegeMatchBot 
+
+> Note: The bot may not be actively running 24/7. Now bot is in test-mode!
+
 
